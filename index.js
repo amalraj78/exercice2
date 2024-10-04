@@ -7,5 +7,5 @@ const userOne = {
 }
 
 userOne.firstName = "Amalraj"
-
+userOne.age=22
 console.log(userOne)
